@@ -1,27 +1,27 @@
 // EN locale
 //////////////////////////////////////
 var msgUIEN = {
-  "sent_title": "Success: All emails sent",
-  "sent": "Congratulation, the distribution has been successful and all e-mails have been sent. Enjoy your Event!",
-  "error": "Sorry, something went wrong."
+  "sent_title": "Exito: Todos los correos enviados",
+  "sent": "Felicidades, se ha completado la distribución y todos los correos han sido enviados. Disfruta tu evento!",
+  "error": "Lo siento, algo salió mal."
 }
 
 var msgMailEN = {
-  "dear": "Dear",
-  "participants": "The people participating are",
-  "signature": "Enjoy!",
-  "target": "is your target for this event.",
+  "dear": "Estimad@",
+  "participants": "Los participantes son",
+  "signature": "Disfruta!",
+  "target": "es tu amig@ secret@ en este evento.",
   "target_multiple": "are your targets for this event.",
-  "explanations": "You were assigned this person for the blind gift distribution and you are the only one to know it. Your mission is now to find a gift for that person. Don't worry, another participant will take care of yours.",
-  "explanations_multiple": "You were assigned these people for the blind gift distribution and you are the only one to know it. Your mission is now to find gifts for them. Don't worry, other participants will take care of yours.",
-  "title": "your target for this event is...",
-  "title_multiple": "your targets for this event are..."
+  "explanations": "Te hemos asignado esta persona para la entrega ciega de regalos, solamente tu sabes esto. Tu misión ahora es encontrar un regalo para esta persona. No te preocupes, otra persona se hará cargo de tu regalo.",
+  "explanations_multiple": "Te hemos asignado estas personas para la entrega ciega de regalo y solo tu sabes esto. Tu misión es encontrar regalos para ellos. No te preocupes, otros participantes se harán cargo de tu regalo.",
+  "title": "tu amig@ secret@ para este evento es...",
+  "title_multiple": "tus amig@s secret@s para este evento son..."
 }
 var msgErrorsEN = {
-  "empty": "Your list is empty. Please add at least two participants to your event.",
-  "one": "There is only one participant in the list. It's a little bit sad. Please add at least one more.",
-  "member_not_valid": "There is an issue with the participant list.\nPlease correct name and email of the person at line number ",
-  "assign_failed": "Our system cannot find an assignation of presents that fulfills the selected number of presents and your groups.\n\nPlease, double check that the number of presents you entered is correctly the number of presents each member has to offer (very often 1 or 2). Also, make sure there is not a group that is too big, remember that people in the same group will not offer presents to each others."
+  "empty": "Tu lista esta vacia. Por favor agrega por lo menos dos participantes para tu evento.",
+  "one": "Solo hay un participante en la lista. Esto es un poco triste. Por favor agrega al menos uno más.",
+  "member_not_valid": "Hay un problema con la lista de participantes.\nPor favor corrige el nomnbre y correo de la persona en la linea ",
+  "assign_failed": "Nuestro sistema no puede asignar los regalos de forma que se cumplan las condiciones de cantidad de regalos y grupos definidos.\n\nPor favor, revisa que el número de regalos ingresados es correcto y corresponde con el numero de regalos que cada miembro puede ofrecer (normalmente 1 o 2). Tambien, asegurate de que no hay un grupo muy grande, recuerda que las personas del mismo grupo no se regalaran entre ellos."
 }
 
 // FR locale
