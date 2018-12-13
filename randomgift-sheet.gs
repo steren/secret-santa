@@ -12,8 +12,8 @@ var msgMailEN = {
   "signature": "Enjoy!",
   "target": "is your target for this event.",
   "target_multiple": "are your targets for this event.",
-  "explanations": "You were assigned this person for the blind gift distribution and you are the only one to know it. Your mission is now the find a gift for that person. Don't worry, another participant will take care of yours.",
-  "explanations_multiple": "You were assigned these people for the blind gift distribution and you are the only one to know it. Your mission is now the find gifts for them. Don't worry, other participants will take care of yours.",
+  "explanations": "You were assigned this person for the blind gift distribution and you are the only one to know it. Your mission is now to find a gift for that person. Don't worry, another participant will take care of yours.",
+  "explanations_multiple": "You were assigned these people for the blind gift distribution and you are the only one to know it. Your mission is now to find gifts for them. Don't worry, other participants will take care of yours.",
   "title": "your target for this event is...",
   "title_multiple": "your targets for this event are..."
 }
